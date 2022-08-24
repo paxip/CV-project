@@ -1,1 +1,2 @@
-# CV-project
+Computer Vision - Rock, Paper, Scissors Project
+
